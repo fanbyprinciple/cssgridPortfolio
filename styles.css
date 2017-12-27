@@ -58,10 +58,12 @@ body:hover {
         font-size: 100%;
         
     }
-    div:hover { 
+    .box:hover { 
           background-color: rgba(119, 0, 255, 0.644);
       }
-
+    .project:hover {
+      background-color: rgba(0, 119, 255, 0.87);
+    }
     .aa{
       grid-column: 1 ;
       grid-row: 1  ;
